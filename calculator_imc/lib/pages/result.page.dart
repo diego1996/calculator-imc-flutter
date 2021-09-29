@@ -108,7 +108,7 @@ class ResultPage extends StatelessWidget {
       ];
     } else if (imc >= 18.5 && imc <= 24.9) {
       return [
-        "Bajo Peso",
+        "Normal",
         Colors.greenAccent,
         "Tienes un peso corporal normal. ¡Buen trabajo!"
       ];
