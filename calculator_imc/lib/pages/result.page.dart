@@ -82,7 +82,7 @@ class ResultPage extends StatelessWidget {
                                 child: Text(results[2],
                                     textAlign: TextAlign.center,
                                     style: const TextStyle(
-                                        color: Colors.white70, fontSize: 15)),
+                                        color: Colors.white70, fontSize: 18)),
                               )
                             ],
                           ),
